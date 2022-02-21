@@ -1,5 +1,5 @@
 /*
- * This is just a test file to check for dups in Woc.
+ * This is just a test file to deal with issues.
  */
 
 #include <stdio.h>
